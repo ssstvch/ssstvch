@@ -9,8 +9,8 @@
     <a href="#">
         <img src="https://img.shields.io/badge/Linkedin-blue?style=social&logo=linkedin&logoColor=blu" alt="LinkedIn Badge"/>
     </a>
-  
-  <img src="https://komarev.com/ghpvc/?username=ssstvch&style=flat-square&color=blue" alt="" align="center"/>
+    <br />
+    <img src="https://komarev.com/ghpvc/?username=ssstvch&style=flat-square&color=blue" alt="" align="center"/>
 </div>
 
 <h1 align="center">
